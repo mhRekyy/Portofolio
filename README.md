@@ -9,9 +9,6 @@ This repository contains the source code for a modern and responsive landing pag
 - **Fast Performance**: Lightweight code for faster loading times.
 - **Customizable Components**: Easy to adapt to different use cases.
 
-## Live Demo
-
-You can view the live demo here: [Insert Live Demo Link](https://mhrekyy.github.io/Portofolio/)
 
 ## Tech Used
 
