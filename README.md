@@ -15,8 +15,8 @@ You can view the live demo here: [Insert Live Demo Link](https://mhrekyy.github.
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: For structuring the content.
-- **CSS3**: For styling the page, including Flexbox and Grid for layout.
+- **HTML**: For structuring the content.
+- **CSS**: For styling the page, including Flexbox and Grid for layout.
 - **JavaScript (optional)**: For interactivity (e.g., animations or form validation).
 
 ## 📂 Folder Structure
@@ -26,5 +26,4 @@ You can view the live demo here: [Insert Live Demo Link](https://mhrekyy.github.
 ├── index.html        # Main HTML file
 ├── styles.css        # CSS styles
 ├── script.js         # JavaScript for interactivity
-├── assets/           # Folder for images, icons, etc.
 └── README.md         # Project documentation (this file)
