@@ -1,4 +1,4 @@
-# Landing Page Project
+# Portofolio Project
 
 This repository contains the source code for a modern and responsive landing page designed for showcasing a portfolio
 
