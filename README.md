@@ -14,10 +14,10 @@ This repository contains the source code for a modern and responsive landing pag
 Here are some previews of the portfolio landing page:  
 
 ### Section 1
-[![Desktop Screenshot](screenshots/desktop-view.png)](screenshots/desktop-view.png)  
+[![Desktop Screenshot](img/1.png)](img/1.png)  
 
 ### Section 2  
-[![Mobile Screenshot](screenshots/mobile-view.png)](screenshots/mobile-view.png)  
+[![Mobile Screenshot](img/2.png)](img/2.png)  
 
 
 ## Tech Used
