@@ -9,17 +9,6 @@ This repository contains the source code for a modern and responsive landing pag
 - **Fast Performance**: Lightweight code for faster loading times.
 - **Customizable Components**: Easy to adapt to different use cases.
 
-## Screenshots  
-
-Here are some previews of the portfolio landing page:  
-
-### Section 1
-[![Desktop Screenshot](img/1.png)](img/1.png)  
-
-### Section 2  
-[![Mobile Screenshot](img/2.png)](img/2.png)  
-
-
 ## Tech Used
 
 - **HTML**: For structuring the content.
